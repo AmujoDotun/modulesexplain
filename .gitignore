@@ -2,3 +2,9 @@
 /production/.terraform.lock.hcl
 /production/terraform.tfstate
 /production/terraform.tfstate.backup
+
+
+/staging/.terraform
+/staging/.terraform.lock.hcl
+/staging/terraform.tfstate
+/staging/terraform.tfstate.backup

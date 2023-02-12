@@ -1,6 +1,7 @@
 provider "aws" {
   region     = "us-west-1"
-  
+  access_key = ""
+  secret_key = ""
 }
 
 module "production_s3_bucket" {
